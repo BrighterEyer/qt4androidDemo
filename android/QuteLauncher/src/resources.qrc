@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/main.qml</file>
+        <file>qml/IntroView.qml</file>
+        <file>qml/config/qmldir</file>
+        <file>qml/config/Theme.qml</file>
+        <file>qml/config/Dimensions.qml</file>
+        <file>qml/debug/Debug.qml</file>
+        <file>qml/debug/qmldir</file>
+        <file>qml/intro/IntroMain.qml</file>
+        <file>qml/intro/IntroEnd.qml</file>
+        <file>qml/themes/classic/ThemeMain.qml</file>
+        <file>qml/themes/classic/ApplicationGrid.qml</file>
+        <file>qml/themes/classic/ExpandableItem.qml</file>
+        <file>qml/themes/classic/ApplicationTile.qml</file>
+        <file>qml/themes/tiles/ThemeMain.qml</file>
+        <file>qml/themes/tiles/ApplicationGrid.qml</file>
+        <file>qml/themes/tiles/ApplicationList.qml</file>
+        <file>qml/themes/tiles/ApplicationMenu.qml</file>
+        <file>qml/themes/tiles/ColorPicker.qml</file>
+        <file>qml/themes/tiles/SectionNavigator.qml</file>
+        <file>qml/themes/tiles/ApplicationSection.qml</file>
+        <file>qml/themes/tiles/Configuration.qml</file>
+        <file>qml/themes/tiles/qmldir</file>
+        <file>qml/components/PressAndHoldMenu.qml</file>
+        <file>qml/components/qmldir</file>
+        <file>qml/themes/classic/ApplicationGridMenu.qml</file>
+        <file>qml/components/MenuItem.qml</file>
+        <file>qml/intro/IntroSelection.qml</file>
+        <file>qml/components/RadioButtonStyleDefault.qml</file>
+        <file>qml/intro/IntroScreen.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="test">resources/images/test.png</file>
+        <file alias="shadow">resources/images/shadow.png</file>
+        <file alias="shadow_navigationbar">resources/images/shadow_navigationbar.png</file>
+        <file alias="icon">resources/images/icon.svg</file>
+    </qresource>
+</RCC>
